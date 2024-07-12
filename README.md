@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd year CSE student .<br>I am an experienced React developer . I have also made Full-stack<br>projects using Firebase and Supabase as BAAS . <br>Currently I am learning about Generative AI and its application.<br>I am looking for a sofware role or a freelance work.<br>
+Final year CSE student .<br>I am an experienced React developer . I have also made Full-stack<br>projects using Firebase and Supabase as BAAS . <br>Currently I am learning about Generative AI and its application.<br>I am looking for a sofware role or a freelance work.<br>
 
 
 ## 🌐 Socials:
